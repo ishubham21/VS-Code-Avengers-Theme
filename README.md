@@ -23,5 +23,11 @@ Join her in her journey with this special VSCode extension/theme designed by har
  * **Invalid, Deleted, Sub-methods, Language methods**: #FF5370
  * There are a lot more with these being the basic ones.
 
+<!-- ## Installation (locally)
+
+ * Download/Clone this repository
+ * Keep your focus on 'captain-marvel-theme-0.0.1.vsix' file, this is a package file and we're gonna use it super soon.
+ * Make sure node is installed
+ * Run command 'npm ' -->
 
 **Enjoy!**
