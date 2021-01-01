@@ -1,4 +1,4 @@
-## Captain-Marvel Theme
+# Captain-Marvel Theme
 
 Captain Marvel is an extraterrestrial Kree warrior who finds herself caught in the middle of an intergalactic battle between her people and the Skrulls. 
 
