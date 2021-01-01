@@ -1,8 +1,11 @@
-## About Captain-Marvel Theme
+## Captain-Marvel Theme
 
-So, you're a fan of Marvel Cinematic Universe and it's characters? Well, i've got this for you. This theme/extension is designed for Microsoft's Visual Studio Code. It's based on the colors picked from the overall dress-up of Captain Marvel.
+Captain Marvel is an extraterrestrial Kree warrior who finds herself caught in the middle of an intergalactic battle between her people and the Skrulls. 
 
+Living on Earth in 1995, she keeps having recurring memories of another life as U.S. Air Force pilot Carol Danvers. With help from Nick Fury, Captain Marvel tries to uncover the secrets of her past while harnessing her special superpowers to end the war with the evil Skrulls.
 
+Join her in her journey 
+##
 
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
