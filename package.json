@@ -10,6 +10,10 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ishubham21/VSCode-Captain-Marvel-Theme.git"
+    },
     "bugs": {
         "email": "sg2199203@gmail.com",
         "url": "https://github.com/ishubham21/VSCode-Captain-Marvel-Theme.git"
