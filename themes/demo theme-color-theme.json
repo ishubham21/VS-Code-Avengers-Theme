@@ -17,7 +17,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#FAF0BE"
+				"foreground": "#FAF0BF"
 			}
 		},
 		{
