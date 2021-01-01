@@ -26,7 +26,7 @@ Join her in her journey with this special VSCode extension/theme designed by har
 
 ## Installation
  
- * Check it out at (VSCode Marketplace)[https://marketplace.visualstudio.com/items?itemName=shubhamgautam.captain-marvel-theme]
+ * Check it out at [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=shubhamgautam.captain-marvel-theme)
 <!-- ## Installation (locally)
 
  * Download/Clone this repository
