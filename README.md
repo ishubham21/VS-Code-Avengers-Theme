@@ -13,10 +13,26 @@ I know this may be a hard decision for you, but you get to choose from:
 **Warning!!! This may be a hard choice for you**
 
  **1. Iron Man**
+
  **2. Captain Marvel**
 
+ **3. Captain America**
+
+ **4. Thor**
+
+ **5. Hulk**
+
+ **6. Spider-Man**
+
+ **7. Black Panther**
+ 
+ **8. Thanos**
+ 
 ## Installation
  
  * Check it out at [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=shubhamgautam.captain-marvel-theme)
 
+## What's next?
+
+Will add more avengers
 ## Enjoy!

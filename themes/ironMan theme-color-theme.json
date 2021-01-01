@@ -2,7 +2,7 @@
 	"name": "demo theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#fff",
+		"editor.background": "#b97d10",
 		"editor.foreground": "#fff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#FAF0BE",
