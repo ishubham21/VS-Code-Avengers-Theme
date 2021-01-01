@@ -34,9 +34,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Your Theme",
+                "label": "Captain Marvel",
                 "uiTheme": "vs-dark",
-                "path": "./themes/demo theme-color-theme.json"
+                "path": "./themes/captainMarvel theme-color-theme.json"
+            },
+            {
+                "label": "Iron Man",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ironMan theme-color-theme.json"
             }
         ]
     }
