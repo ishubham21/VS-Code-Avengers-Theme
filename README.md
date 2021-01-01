@@ -7,6 +7,7 @@ Living on Earth in 1995, she keeps having recurring memories of another life as 
 Join her in her journey with this special VSCode extension/theme designed by harnessing all the colors from her costume and making it available for you.
 
 ## Palette Description (I don't know the names of these colors, so HEX maybe?)
+
  * **Background, Sidebar Background**: #222
  * **Editor's Foreground, Object Property**: #FAF0BE
  * **Activity-Bar Badge**: #007ACC
@@ -21,8 +22,11 @@ Join her in her journey with this special VSCode extension/theme designed by har
  * **Entity Types**: #B2CCD6
  * **Comments**: #999
  * **Invalid, Deleted, Sub-methods, Language methods**: #FF5370
- * There are a lot more with these being the basic ones.
+ * **There are a lot more with these being the basic ones**.
 
+## Installation
+ 
+ * Check it out at (VSCode Marketplace)[https://marketplace.visualstudio.com/items?itemName=shubhamgautam.captain-marvel-theme]
 <!-- ## Installation (locally)
 
  * Download/Clone this repository
@@ -30,4 +34,4 @@ Join her in her journey with this special VSCode extension/theme designed by har
  * Make sure node is installed
  * Run command 'npm ' -->
 
-**Enjoy!**
+## Enjoy!
