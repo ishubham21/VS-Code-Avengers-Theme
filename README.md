@@ -20,13 +20,9 @@ This a collection of both light and dark themes paacked in one. You get choose w
 
  **4. Thor**
 
- **5. Hulk**
+ **5. Black Panther**
 
- **6. Spider-Man**
-
- **7. Black Panther**
-
- **8. Thanos**
+ **6. Thanos**
  
 ## Installation
  

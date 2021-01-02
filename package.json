@@ -52,6 +52,16 @@
                 "label": "Thor",
                 "uiTheme": "vs",
                 "path": "./themes/thor theme-color-theme.json"
+            },
+            {
+                "label": "Black Panther",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blackPanther theme-color-theme.json"
+            },
+            {
+                "label": "Thanos",
+                "uiTheme": "vs-dark",
+                "path": "./themes/thanos theme-color-theme.json"
             }
         ]
     }
