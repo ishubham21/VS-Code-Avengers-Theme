@@ -6,27 +6,35 @@
     "author": {
         "name": "Shubham Gautam"
     },
-    "version": "0.1.2",
+    "version": "0.1.4",
     "engines": {
         "vscode": "^1.52.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ishubham21/VSCode-Captain-Marvel-Theme.git"
+        "url": "https://github.com/ishubham21/VS-Code-Avengers-Theme"
     },
     "bugs": {
         "email": "sg2199203@gmail.com",
-        "url": "https://github.com/ishubham21/VSCode-Captain-Marvel-Theme.git"
+        "url": "https://github.com/ishubham21/VS-Code-Avengers-Theme"
     },
     "icon": "images/logo.jpg",
     "keywords": [
         "Dark Theme",
+        "Light Theme",
+        "Avengers",
+        "Avengers Theme",
         "Marvel",
+        "Iron Man",
         "Captain Marvel",
+        "Captain America",
+        "Thor",
+        "Black Panther",
+        "Thanos",
         "Themes",
-        "Shubham Gautam",
-        "Gunmetal",
-        "Cobalt"
+        "Git",
+        "GitHub",
+        "Shubham Gautam"
     ],
     "categories": [
         "Themes"
