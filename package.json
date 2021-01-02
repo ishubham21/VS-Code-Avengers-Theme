@@ -42,6 +42,11 @@
                 "label": "Iron Man",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ironMan theme-color-theme.json"
+            },
+            {
+                "label": "Captain America",
+                "uiTheme": "vs",
+                "path": "./themes/captainAmerica theme-color-theme.json"
             }
         ]
     }
