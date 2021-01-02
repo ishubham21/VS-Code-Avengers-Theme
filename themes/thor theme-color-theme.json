@@ -1,31 +1,31 @@
 {
-	"name": "Captain America",
+	"name": "Thor",
 	"type": "light",
 	"colors": {
-		"editor.background": "#f8f8f8",
-		"editor.foreground": "#232323",
-		"sideBar.background": "#fff",
-		"activityBar.background": "#ef424c",
-		"activityBar.foreground": "#fff",
-		"statusBar.background": "#015ee7",
-		"activityBarBadge.background": "#015ee7",
-		"editorCursor.foreground": "#015ee7",
-		"panel.border": "#ef424c",
-		"panelTitle.activeBorder": "#015ee7",
-		"sideBarSectionHeader.background": "#ef424c",
-		"sideBarSectionHeader.foreground": "#fff",
-		"sideBar.border": "#fff",
-		"tab.border": "#015ee7",
-		"tab.activeBorder": "#ef424c",
-		"notificationToast.border": "#015ee7",
-		"notifications.border": "#015ee7",
-		"notifications.foreground": "#ef424c",
-		"contrastActiveBorder": "#015ee7"
+		"editor.background": "#FAF0BF",
+		"editor.foreground": "#2C3034",
+		"sideBar.background": "#FAF0BF",
+		"activityBar.background": "#A2141A",
+		"activityBar.foreground": "#FAF0BF",
+		"statusBar.background": "#404B56",
+		"activityBarBadge.background": "#404B56",
+		"editorCursor.foreground": "#404B56",
+		"panel.border": "#A2141A",
+		"panelTitle.activeBorder": "#404B56",
+		"sideBarSectionHeader.background": "#A2141A",
+		"sideBarSectionHeader.foreground": "#FAF0BF",
+		"sideBar.border": "#FAF0BF",
+		"tab.border": "#404B56",
+		"tab.activeBorder": "#A2141A",
+		"notificationToast.border": "#404B56",
+		"notifications.border": "#404B56",
+		"notifications.foreground": "#A2141A",
+		"contrastActiveBorder": "#404B56"
 	},
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#ec4e4e",
+				"foreground": "#CC0E1D",
 			}
 		},
 		{
@@ -326,7 +326,7 @@
 		{
 			"name": "Markup: Error",
 			"scope": "markup.error",
-			"settings": {
+			"settings": {		
 				"foreground": "#660000"
 			}
 		},

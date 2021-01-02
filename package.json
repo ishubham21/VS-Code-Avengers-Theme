@@ -6,7 +6,7 @@
     "author": {
         "name": "Shubham Gautam"
     },
-    "version": "0.1.1",
+    "version": "0.1.2",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -47,6 +47,11 @@
                 "label": "Captain America",
                 "uiTheme": "vs",
                 "path": "./themes/captainAmerica theme-color-theme.json"
+            },
+            {
+                "label": "Thor",
+                "uiTheme": "vs",
+                "path": "./themes/thor theme-color-theme.json"
             }
         ]
     }
