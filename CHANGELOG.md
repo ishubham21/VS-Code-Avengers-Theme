@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "demo-theme" extension will be documented in this file.
+## 0.1.5
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+I'm adding a change log with this extension which earlier was not present.
 
-## [Unreleased]
+## 0.1.4
 
-- Initial release
+In this release, I've added a total of 6 themes based on 6 Marvel charcters i.e Iron Man, Thor, Captian Marvel, Captain America, Black Panther and Thanos.
